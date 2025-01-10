@@ -3,6 +3,8 @@
 一个使用HTML5、CSS3和JavaScript实现的2048游戏。
 ![Clipboard_Screenshot_1736482571](https://github.com/user-attachments/assets/8dc69b69-c714-47a4-a524-ab92d806b93d)
 
+## 在线体验
+🎮 [点击这里开始游戏](https://ashster.github.io/2048)
 
 ## 游戏介绍
 
