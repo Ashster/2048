@@ -16,13 +16,13 @@
 - jQuery 1.10.2
 
 ## 项目结构 
-2048/
-│
-├── index.html # 游戏主页面
-├── 2048.css # 样式文件
-├── main2048.js # 游戏主要逻辑
-├── showanimation2048.js # 动画效果
-└── support2048.js # 辅助函数
+2048/ <br/>
+│ <br/>
+├── index.html # 游戏主页面 <br/>
+├── 2048.css # 样式文件 <br/>
+├── main2048.js # 游戏主要逻辑 <br/>
+├── showanimation2048.js # 动画效果 <br/>
+└── support2048.js # 辅助函数 <br/>
 
 ## 功能特性
 
